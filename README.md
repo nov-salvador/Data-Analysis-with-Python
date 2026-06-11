@@ -66,9 +66,7 @@ This repository utilizes the following tools and libraries:
 
 ### Data Collection
 
-- BeautifulSoup
 - Requests
-- yfinance
 
 ---
 
@@ -110,32 +108,6 @@ This repository utilizes the following tools and libraries:
 - Ridge Regression
 - Hyperparameter Tuning
 
----
-
-## 📂 Repository Structure
-
-```text
-Data-Analysis-with-Python/
-│
-├── Projects/
-│   ├── Project_1/
-│   ├── Project_2/
-│   └── ...
-│
-├── Labs/
-│   ├── Data_Importing/
-│   ├── Data_Wrangling/
-│   ├── EDA/
-│   ├── Model_Development/
-│   ├── Model_Evaluation/
-│   └── ...
-│
-├── Datasets/
-│
-├── Images/
-│
-└── README.md
-```
 
 ---
 
